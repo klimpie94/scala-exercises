@@ -8,7 +8,7 @@ object Exercise4 {
   def main(args: Array[String]) = {
     val spark = SparkSession
       .builder
-      .appName("exercise1")
+      .appName("exercise4")
       .getOrCreate()
 
     import spark.implicits._
