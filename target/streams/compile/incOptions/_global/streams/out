@@ -2,6 +2,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise15$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise7$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MovieRatings$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise11$$typecreator9$1.class[0m
@@ -9,31 +10,48 @@
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise1$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise5.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise9.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise13$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise10$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise4$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise2$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise17$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise16$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise3.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise15.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MovieCritics$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise11$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise10.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise14.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise2$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise11.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise17$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise3$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise3$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise7.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise12$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise9$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise18$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise17.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise12$$typecreator5$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise1$$typecreator6$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise13.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MovieRatings.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise16.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise18.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise12.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise11$$typecreator5$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise11$$typecreator17$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise18$$typecreator1$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	MovieCritics.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise14$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise6.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise2.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise5$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise8$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise8.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Exercise18$$typecreator2$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise6$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Exercise6$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes.bak[0m

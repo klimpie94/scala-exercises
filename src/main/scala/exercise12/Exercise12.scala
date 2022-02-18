@@ -8,7 +8,6 @@ object Exercise12 {
   def main(args: Array[String]) = {
     val spark = SparkSession
       .builder
-      .appName("exercise11")
       .getOrCreate()
 
     import spark.implicits._
@@ -19,6 +18,7 @@ object Exercise12 {
 
     // FIXME: is only showing 1 line...
     val solution = input.select(posexplode($"value")).groupBy().pivot("pos").agg(first("col"))
+    solution.show()
 
   }
 }

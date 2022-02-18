@@ -1,4 +1,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/mnm_dataset.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/mnm_dataset.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/countries.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/countries.csv)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/input.json,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/input.json)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/words.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/words.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/IP.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/IP.csv)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/sales.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/sales.csv)[0m
