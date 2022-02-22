@@ -1,4 +1,5 @@
 [0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/salaries2.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/salaries2.csv)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/mnm_dataset.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/mnm_dataset.csv)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/salaries.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/salaries.csv)[0m
 [0m[[0m[0mdebug[0m] [0m[0m	(/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/src/main/resources/exams.csv,/Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/exams.csv)[0m

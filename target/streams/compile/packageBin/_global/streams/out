@@ -1,5 +1,7 @@
 [0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/scala_exercises_2.12-1.0.jar ...[0m
 [0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	salaries2.csv[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/salaries2.csv[0m
 [0m[[0m[0mdebug[0m] [0m[0m	mnm_dataset.csv[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/mnm_dataset.csv[0m
 [0m[[0m[0mdebug[0m] [0m[0m	salaries.csv[0m
@@ -152,6 +154,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise10/Exercise10.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise10/Exercise10$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise10/Exercise10$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise26[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise26[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise26/Exercise26.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise26/Exercise26.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise26/Exercise26$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise26/Exercise26$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise19[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise19[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise19/Exercise19$$typecreator6$1.class[0m
@@ -174,6 +182,12 @@
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise20/Exercise20$$typecreator6$1.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise20/Exercise20$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise20/Exercise20$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise27[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise27[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise27/Exercise27$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise27/Exercise27$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise27/Exercise27.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise27/Exercise27.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise18[0m
 [0m[[0m[0mdebug[0m] [0m[0m	  /Users/anis.boudih/Documents/personal_projects/books/scala_exercises/target/scala-2.12/classes/org/anis/boudih/exercise18[0m
 [0m[[0m[0mdebug[0m] [0m[0m	org/anis/boudih/exercise18/Exercise18$$typecreator1$1.class[0m

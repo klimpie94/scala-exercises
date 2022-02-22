@@ -24,6 +24,9 @@ object Exercise25 {
       .partitionBy("department")
       .orderBy("time")
       .rowsBetween(Window.unboundedPreceding,Window.currentRow)
-    items.withColumn("running_total", sum("items_sold").over(windowSpec)).show()
+    val solution = items
+      .withColumn("running_total", sum("items_sold")
+        .over(windowSpec))
+    solution.show()
   }
 }
